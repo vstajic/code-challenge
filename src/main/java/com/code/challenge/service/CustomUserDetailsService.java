@@ -1,4 +1,4 @@
-package com.code.challenge.Service;
+package com.code.challenge.service;
 
 import java.util.Optional;
 

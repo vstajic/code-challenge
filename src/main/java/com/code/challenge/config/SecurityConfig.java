@@ -10,7 +10,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import com.code.challenge.Service.CustomUserDetailsService;
+import com.code.challenge.service.CustomUserDetailsService;
 import com.code.challenge.repository.UserRepository;
 
 @EnableWebSecurity
